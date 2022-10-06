@@ -30,8 +30,7 @@ What are the steps required to install my project?
 
 ## Demo of the Features
 
-![Demo](./assets/Screen%20Shot%202022-09-26%20at%2010.14.57%20PM%20(2).png)
-![Demo](./assets/Screen%20Shot%202022-09-26%20at%2010.15.34%20PM%20(2).png)
+![Demo](./assets/Screen%20Shot%202022-10-05%20at%2010.19.03%20PM%20(2).png)
 
 ## License
 

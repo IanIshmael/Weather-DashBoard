@@ -6,7 +6,7 @@ function searchCity(event) {
     event.preventDefault()
   var cityName = searchInput.value;
   fetch(
-    `http://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=1&appid=${apiKey}`
+    `https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=1&appid=${apiKey}`
   )
     .then(function (response) {
       return response.json();
